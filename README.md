@@ -1,5 +1,7 @@
 # Thermometer Chart
 
+[![View Thermometer Chart on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/101889-thermometer-chart)
+
 Version: 1.0
 
 Create a thermometer style chart with a stem, bulb, and desired labels, e.g. thermometer plots which are used in reaching fundraising or donation goals. The main body of the thermometer chart displays a circle-shaped bulb connected to a long vertical stem, which are filled in with sectioned-off colors representing quantitative progress according to different categories.
